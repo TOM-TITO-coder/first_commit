@@ -1,2 +1,2 @@
-# first_commit
+# my-first-repository
 Learn code
